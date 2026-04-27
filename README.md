@@ -1,4 +1,4 @@
-# Mini Project Management System
+# Project Management System using PHP Laravel 
 
 A simple Project Management System built using Laravel (Backend) and Blade + Bootstrap & JavaScript (Frontend).
 This application allows users to create projects and manage tasks under each specific project.
